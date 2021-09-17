@@ -3,7 +3,7 @@ Coding Questions asked in TCS NQT September 2021
 
 Language : C++
 
-##Problem 1 :
+<b>Problem 1 :</b>
 
 Problem Statement – An automobile company manufactures both a two wheeler (TW) and a four wheeler (FW). A company manager wants to make the production of both types of vehicle according to the given data below:
 
@@ -20,12 +20,12 @@ Example :
 
 Input :
 
-    200  -> Value of V
-    540   -> Value of W
+    200  // Value of V
+    540  // Value of W
 
 Output :
 
-    TW =130 FW=70
+    TW = 130 FW = 70
 
  
 
