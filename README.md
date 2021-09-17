@@ -33,7 +33,7 @@ Explanation:
 
 130+70 = 200 vehicles
 
-(70*4)+(130*2)= 540 wheels
+(70 x 4)+(130 x 2)= 540 wheels
 
  
 
