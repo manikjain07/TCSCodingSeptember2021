@@ -16,7 +16,7 @@ The task is to find how many two-wheelers as well as four-wheelers need to manuf
 
  
 
-Example :
+<u>Example</u> :
 
 Input :
 
@@ -71,12 +71,13 @@ Note : The output will be a positive or negative integer based on number of ‘*
 (*>#): positive integer
 (#>*): negative integer
 (#=*): 0
-Example 1:
 
-Input 1:
+<u>Example</u> :
 
-###***   -> Value of S
+    Input :
 
-Output :
+    ###***   -> Value of S
 
-0 → number of * and # are equal
+    Output :
+
+    0 → number of * and # are equal
